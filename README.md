@@ -1,7 +1,7 @@
 # test-repository
 This is a test repository for the Github workshop.
 
-** bold **
+**bold**
 
 1. list item
 2. list item
